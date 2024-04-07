@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.container{
+  margin-top:100px;
+  
+}
+.btn {
+  margin-left: 100px;
+  transition-duration: 0.4s;
+  border: 2px solid #000000;
+}
+
+.btn:hover {
+  background-color: #0a33ff;
+  /* Green */
+  color: white;
+}

@@ -1,4 +1,5 @@
 # UI-project
 This is my first repository
 
-Author- Aashish Kulkarni (Aakul)
+In this Repo, I have uploaded some simple UI projects made with the help of HTML, CSS, and JavaScript
+

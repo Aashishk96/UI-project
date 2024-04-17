@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+  height: 100%;
+  width: 100%;
+  background: #FEFAF6;
+}
+
+.nav {
+  
+  background-color: #EADBC8;
+  padding: 20px 5px;
+  font-family: Arial;
+  font-size: 25px;
+  text-align: center;
+  
+}
+
+.joke {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-bottom: 50px;
+}
+
+img {
+  height: 100px;
+  margin-top: 50px ;
+}
+
+#btnRefresh {
+  background-color: #1aa3ff;
+  text-align: center;
+  padding: 10px;
+  margin-left: 600px;
+  margin-top: 50px;
+  border-radius: 7px;
+  cursor: pointer;
+}
+#btnRefresh:hover {
+    background-color: #008CBA; /* Green */
+    color: white;
+  }

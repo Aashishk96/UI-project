@@ -1,0 +1,52 @@
+html,
+body {
+    background-image: url("clock-img.jpg");
+    background-size: cover;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+main {
+  min-height: 100vh;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.time {
+  font-size: 1.7rem;
+  font-weight: 500;
+  background-color: rgb(230, 125, 46);
+  border-radius: 10px;
+  height: 50px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.date{
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: rgb(230, 125, 46);
+  border-radius: 10px;
+  height: 50px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
